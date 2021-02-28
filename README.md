@@ -1,6 +1,5 @@
 # sch
 
-https://sanekiskita.github.io/sch/.
 
 ## Пример работы с сервером
 
